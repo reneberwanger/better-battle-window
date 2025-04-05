@@ -5,5 +5,5 @@ tags={
 	"Utilities"
 }
 name="Better Battle Window"
-supported_version="1.12.5"
+supported_version="1.14.2.2"
 remote_file_id="3305890494"
